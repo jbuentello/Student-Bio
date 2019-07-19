@@ -1,0 +1,45 @@
+body {
+background-color: rgb(143, 131, 131);
+}
+h1 {
+    font-size: 50px;
+    border: 2px; solid; red;
+    padding: 0px;
+    text-align: center;
+    border: 5px solid black;
+    
+
+}
+
+h2 {
+    font-size: 150
+    text-align: center;
+    
+}
+
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border: 3px solid black;
+}
+
+.centertxt {
+    text-align: center;
+}
+
+div {
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: 900px;
+    margin-left: 250px;
+    font-size: 25px;
+   
+
+}
+
+img {
+    float: left;
+    border: 5px solid black;
+}
